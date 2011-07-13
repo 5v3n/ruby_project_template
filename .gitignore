@@ -3,7 +3,5 @@
 pkg
 *.pid
 *.output
-.rvmrc
-Gemfile.lock
 .rspec
 
